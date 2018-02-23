@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"House","order":1,"parentId":0,"scrollX":819,"scrollY":459},
-{"id":2,"expanded":false,"name":"Noobitaros Village","order":2,"parentId":0,"scrollX":811,"scrollY":459}
+{"id":1,"expanded":false,"name":"House","order":1,"parentId":0,"scrollX":925.7142857142857,"scrollY":532.2857142857142},
+{"id":2,"expanded":false,"name":"Noobitaros Village","order":2,"parentId":0,"scrollX":967.1111111111111,"scrollY":828},
+{"id":3,"expanded":false,"name":"Path to town","order":3,"parentId":0,"scrollX":925.7142857142857,"scrollY":532.2857142857142}
 ]
