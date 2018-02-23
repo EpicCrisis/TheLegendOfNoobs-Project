@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"House","order":1,"parentId":0,"scrollX":819,"scrollY":459},
-{"id":2,"expanded":false,"name":"Noobia Village","order":2,"parentId":0,"scrollX":811,"scrollY":459}
+{"id":1,"expanded":false,"name":"House","order":1,"parentId":0,"scrollX":532,"scrollY":313.5},
+{"id":2,"expanded":true,"name":"Noobia Village","order":3,"parentId":0,"scrollX":811,"scrollY":459.5},
+{"id":3,"expanded":false,"name":"Path to Village","order":2,"parentId":2,"scrollX":532,"scrollY":310.5}
 ]
